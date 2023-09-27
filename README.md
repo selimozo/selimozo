@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @selimozo
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 📫 How to reach me : selimozov@gmail.com
