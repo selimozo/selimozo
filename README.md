@@ -1,3 +1,4 @@
 - 🎈 Welcome to my page, I’m @selimozo
 - 🐝 I’m currently learning HTML, CSS, JavaScript
 - (●'◡'●) How to reach me : selimozov@gmail.com
+- freecodecamp/selimozo
