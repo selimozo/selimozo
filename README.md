@@ -2,7 +2,7 @@
 
 Currently I'm centering a div.
 <br><br>
-![phewGif](/images/better-call-saul-phew.gif)
+![phewGif](./images/better-call-saul-phew.gif)
 
 ## Find me elsewhere
 
