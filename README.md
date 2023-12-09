@@ -1,8 +1,8 @@
 # Bueno, this is ozo
 
-Currently I'm centering a div.
+Currently I'm centering a div...
 <br><br>
-![phewGif](./images/better-call-saul-phew.gif)
+![phewGif](better-call-saul-phew.gif)
 
 ## Find me elsewhere
 
