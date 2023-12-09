@@ -1,14 +1,13 @@
 # Bueno, this is ozo
 
-Currently I'm centering a div...
-<br><br>
+### **Currently I'm centering a div...**
 ![phewGif](better-call-saul-phew.gif)
 
 ## Find me elsewhere
 
 - Gmail > selimozov@gmail.com
-- Codepen > selimozo
-- FreeCodeCamp > selimozo
+- CodePen > selimozo
+- freeCodeCamp > selimozo
 
 ## GitHub Stats
 
