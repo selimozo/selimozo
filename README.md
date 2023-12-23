@@ -11,6 +11,5 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selimozo&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selimozo&layout=compact&theme=dark)]
 
