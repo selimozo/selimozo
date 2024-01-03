@@ -5,7 +5,6 @@
 
 ## Find me elsewhere
 
-- Gmail > selimozov@gmail.com
 - CodePen > selimozo
 - freeCodeCamp > selimozo
 
