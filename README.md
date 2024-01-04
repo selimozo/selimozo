@@ -9,6 +9,7 @@
 - freeCodeCamp > selimozo
 
 ## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selimozo&layout=compact&theme=dark)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selimozo&layout=compact&theme=dark)
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selimozo&theme=radical)
 
